@@ -20,5 +20,4 @@
 ### 5) 팀원
 이주예, 김채현, 조문선
 
-### 6) 발표자료
-<https://youtu.be/MjlOIYM3sHk>
+### 6) [발표자료](https://youtu.be/MjlOIYM3sHk)
