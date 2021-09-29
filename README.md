@@ -1,4 +1,4 @@
-# 2021-COMPAS 부산시 남구 주차 수요 예측
+# 2021-COMPAS 부산시 남구 주차 수요 예측 우수상(2등)
 ![png](슬라이드1.png)
 
 ### 1) 과제 선정 배경 및 목표
@@ -25,5 +25,5 @@
 이주예, 김채현, 조문선
 
 ### 6) 발표자료
-- [유튜브](https://youtu.be/MjlOIYM3sHk)
+- [유튜브영상](https://youtu.be/MjlOIYM3sHk)
 - [PPT](https://chom5621.github.io/project/k-data/(2021-COMPAS)-%EB%B6%80%EC%82%B0%EC%8B%9C-%EB%82%A8%EA%B5%AC-%EC%A3%BC%EC%B0%A8-%EC%88%98%EC%9A%94-%EC%98%88%EC%B8%A1/)
